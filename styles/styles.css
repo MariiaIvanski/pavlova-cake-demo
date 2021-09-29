@@ -21,4 +21,6 @@ p {
 
 img {
   padding: 0 0 10px 0;
+  display: block;
+  border-radius: 10px;
 }
